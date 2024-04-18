@@ -1,0 +1,11 @@
+C:\Users\ASUS\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Dossiers\Master\C#\Auto-Ecole\bin\Release\net6.0-windows\publish\Auto-Ecole.exe
+C:\Users\ASUS\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Dossiers\Master\C#\Auto-Ecole\bin\Release\net6.0-windows\publish\Auto-Ecole.dll
+C:\Users\ASUS\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Dossiers\Master\C#\Auto-Ecole\bin\Release\net6.0-windows\publish\Auto-Ecole.deps.json
+C:\Users\ASUS\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Dossiers\Master\C#\Auto-Ecole\bin\Release\net6.0-windows\publish\Auto-Ecole.runtimeconfig.json
+C:\Users\ASUS\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Dossiers\Master\C#\Auto-Ecole\bin\Release\net6.0-windows\publish\Auto-Ecole.pdb
+C:\Users\ASUS\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Dossiers\Master\C#\Auto-Ecole\bin\Release\net6.0-windows\publish\System.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Dossiers\Master\C#\Auto-Ecole\bin\Release\net6.0-windows\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Dossiers\Master\C#\Auto-Ecole\bin\Release\net6.0-windows\publish\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Dossiers\Master\C#\Auto-Ecole\bin\Release\net6.0-windows\publish\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Dossiers\Master\C#\Auto-Ecole\bin\Release\net6.0-windows\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Dossiers\Master\C#\Auto-Ecole\bin\Release\net6.0-windows\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

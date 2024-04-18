@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\ASUS\OneDrive - Ministere de l%27Enseignement Superieur et de la Recherche Scientifique\Bureau\Dossiers\Master\C#\Auto-Ecole\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Clients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Examen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fiche.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Séance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
